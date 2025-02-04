@@ -73,6 +73,3 @@ This Tableau Dashboard provides critical insights into employee data, attrition 
 ✔ Incorporate real-time data updates using Tableau connectors  
 ✔ Expand analysis to include performance reviews and training impact  
 
----
-# Human_Resource_Analytics_Dashboard
-Tableau
